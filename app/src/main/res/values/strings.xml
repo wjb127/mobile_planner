@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">모바일 플래너</string>
+
+    <string name="input_contents_hint">내용 입력</string>
+    <string name="save_button">저장</string>
+    <string name="delete_button">삭제</string>
+    <string name="close_button">닫기</string>
+
+
+</resources>
